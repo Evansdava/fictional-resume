@@ -1,0 +1,48 @@
+body {
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+    column-count: 1;
+    column-fill: auto;
+    align-content: center;
+    font-family: serif;
+}
+
+div {
+    
+}
+
+#Name {
+    background-color: #FF7668;
+    outline: solid black;
+    padding: 2em;
+}
+
+#Achievements {
+    background-color: #fff;
+    left: 41.8%;
+    width: 31.11%;
+    height: 25.05%;
+}
+
+#Experience {
+    background-color: #fff;
+    top: 48.7%;
+    left: 24.81%;
+    width: 48.1%;
+}
+
+#Skills {
+    background-color: #fff;
+    width: 15%;
+    top: 20%;
+    left: 24.81%;
+}
+
+.Lists {
+    border: solid black;
+    padding: 1em;
+    position: absolute;
+}
