@@ -8,10 +8,7 @@ body {
     column-fill: auto;
     align-content: center;
     font-family: serif;
-}
-
-div {
-    
+    background-color: rgb(252, 222, 222);
 }
 
 #Name {
@@ -20,22 +17,29 @@ div {
     padding: 2em;
 }
 
+#Seal {
+    position: absolute;
+    background-color: #FF7668;
+    right: 30%;
+    top: 3%;
+}
+
 #Achievements {
-    background-color: #fff;
+    background-color: #FFF;
     left: 41.8%;
     width: 31.11%;
     height: 25.05%;
 }
 
 #Experience {
-    background-color: #fff;
+    background-color: #FFF;
     top: 48.7%;
     left: 24.81%;
     width: 48.1%;
 }
 
 #Skills {
-    background-color: #fff;
+    background-color: #FFF;
     width: 15%;
     top: 20%;
     left: 24.81%;
